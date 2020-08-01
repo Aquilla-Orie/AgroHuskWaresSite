@@ -30,6 +30,11 @@ h1
 	display: inline-block;
 }
 
+.top-pic
+{
+	width: 100%;
+}
+
 #top-img
 {
 	width: 100px;
