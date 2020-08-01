@@ -1,6 +1,8 @@
 body
 {
 	margin: 0;
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
 }
 
 h1
@@ -10,19 +12,32 @@ h1
 
 .top-container
 {
-	background-color: #ffe78f;
+	background-color: #fff;
 }
 
 .middle-container
 {
 	background-color: #ffd36b;
-	width: 200px;
-	height: 200px;
 }
 
 .bottom-container
 {
 	background-color: #ffc1fa;
-	width: 200px;
-	height: 200px;
+}
+
+.top
+{
+	display: inline-block;
+}
+
+#top-img
+{
+	width: 100px;
+	height: 100px;
+}
+
+#top-text
+{
+	position: absolute;
+	top: 30px;
 }
