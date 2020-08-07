@@ -10,6 +10,11 @@ h1
 	margin-top: 0;
 }
 
+hr
+{
+	width: 70%;
+}
+
 div.item
 {
     /* To correctly align image, regardless of content height: */
@@ -69,7 +74,7 @@ div.item
 .top-pic
 {
 	width: 100%;
-	margin: 150px 0 0 0;
+	margin: 150px 0 50px 0;
 }
 
 .about-text
@@ -86,7 +91,7 @@ div.item
 	background-color: #cccccc;
 	background-image: url("../images/about-header.jpg");
 	color: #fff;
-	margin-bottom: 20px;
+	margin: 50px 0;
 	padding: 10px 0 0 50px;
 	height: 130px;
 	text-align: left;
